@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jon3r
 - 👀 I’m interested in anything digital
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me you can't
 
